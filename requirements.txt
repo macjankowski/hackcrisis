@@ -1,0 +1,5 @@
+flask==1.1.1
+elasticsearch==7.1.0
+elasticsearch-dsl==7.1.0
+flask-restplus==0.13.0
+flask-wtf==0.14.3
