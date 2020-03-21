@@ -18,6 +18,7 @@
     <div class=res_tab>
       <h1></h1>
       {% for table in tables %}
+        <h2>{{titles[loop.index]}}</h2>
         {{ table|safe }}
       {% endfor %}
     </div>

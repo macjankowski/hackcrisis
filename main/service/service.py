@@ -29,7 +29,8 @@ def response():
         {
             # "id": hit.index,
             "text": hit.description,
-            "source": "https://www.gov.pl/web/zdrowie"
+            "source": hit.source,
+            "is_true": hit.is_true
         }
         for hit in r
     ]
@@ -37,11 +38,14 @@ def response():
     if len(result) > 0:
         result = pd.DataFrame(result)
     else:
-        result = pd.DataFrame()
+        result = pd.DataFrame(columns=["text", "source", "is_true"])
 
-    result.columns = ["Fact", "Source"]
+    true_result = result.loc[result.is_true == 'TRUE'][["text", "source"]]
+    true_result.columns = ["Informacja prawdziwa", "Źródło"]
 
+    false_result = result.loc[result.is_true == 'FALSE'][["text"]]
+    false_result.columns = ["Fałsz"]
 
-    return render_template('index.html', tables=[result.to_html(classes='res_tab')],
-                           titles=['na', 'Search results'])
+    return render_template('index.html', tables=[true_result.to_html(classes='res_tab'), false_result.to_html(classes='res_tab_false')],
+                           titles=['na', 'Prawda', "Fałsz"])
 
