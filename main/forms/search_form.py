@@ -1,7 +1,11 @@
-from wtforms import Form, StringField, SelectField
+from flask_wtf import FlaskForm
+from wtforms import StringField, TextField, SubmitField
+from wtforms.validators import DataRequired, Length
 
-class MusicSearchForm(Form):
-    choices = [('Artist', 'Artist'),
-               ('Album', 'Album'),
-               ('Publisher', 'Publisher')]
-    select = SelectField('Search for music:', choices=choices)
+
+class SearchForm(FlaskForm):
+    """Contact form."""
+    name = StringField('Search', [DataRequired()])
+
+    # recaptcha = RecaptchaField()
+    submit = SubmitField('Submit')
