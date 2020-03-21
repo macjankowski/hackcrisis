@@ -11,7 +11,7 @@ logging.basicConfig(
 
 
 def startApp():
-    app.run()
+    app.run(port=80)
 
 
 if __name__ == "__main__":
