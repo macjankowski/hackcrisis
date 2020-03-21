@@ -4,9 +4,6 @@ h1, h2          { margin: 0; }
 h1              { border-bottom: 2px solid #eee; }
 h2              { font-size: 1.2em; }
 
-
-
-
 table.dataframe, .dataframe th, .dataframe td {
   border: none;
   border-bottom: 1px solid #C8C8C8;
@@ -15,7 +12,6 @@ table.dataframe, .dataframe th, .dataframe td {
   padding: 10px;
   margin-bottom: 40px;
   font-size: 0.9em;
-  width:100%;
 }
 
 .res_tab th {
@@ -23,25 +19,17 @@ table.dataframe, .dataframe th, .dataframe td {
     color: white;
 }
 
-.res_tab table {
-    width: 100%
-}
-
 tr:nth-child(odd)		{ background-color:#eee; }
 tr:nth-child(even)	{ background-color:#fff; }
 
 tr:hover            { background-color: #ffff99;}
 
-.search_box{
-    width: 600
-}
 
-.loginField {
-  margin: 0 auto;
-  width: 500px;
-  height: 50px;
-  font-size: 14px;
-  font-weight: bold;
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
 }
 
 input{

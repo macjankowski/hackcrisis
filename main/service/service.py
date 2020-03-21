@@ -15,26 +15,6 @@ app.config['SECRET_KEY'] = SECRET_KEY
 es_service = ElasticClient()
 
 
-@app.route("/api/findnews", methods=["POST"])
-def similarity_measure() -> str:
-    request_dict = request.get_json()
-    start = request_dict["from"]
-    size = request_dict["size"]
-
-    query_string = request_dict["text"]
-
-    r = es_service.free_text_search(query_string, start=start, size=size)
-    result = [
-        {
-            "id": hit.index,
-            "text": hit.description
-        }
-        for hit in r
-    ]
-
-    return jsonify(result)
-
-
 @app.route('/', methods=('GET', 'POST'))
 def search():
     return render_template("index.html")
