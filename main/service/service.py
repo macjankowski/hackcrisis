@@ -40,8 +40,11 @@ def top_w2v_top_elastic(query_string):
     true_result = pd.concat([true_result_w2v.head(5), true_result_elastic.head(5)])
     false_result = pd.concat([false_result_w2v.head(2), false_result_elastic.head(2)])
 
-    true_result = true_result.drop_duplicates(subset=['Informacja prawdziwa'])
-    false_result = false_result.drop_duplicates(subset=['Fałsz'])
+    true_result = true_result.drop_duplicates(subset=['text'])
+    false_result = false_result.drop_duplicates(subset=['text'])
+
+    true_result.columns = ["Informacja prawdziwa", "Źródło"]
+    false_result.columns = ["Fałsz"]
 
     return true_result, false_result
 
@@ -51,10 +54,10 @@ def only_w2v(query_string, k=10):
     result = w2v_client.find_top_matches(query_string, k)
 
     true_result = result.loc[result.is_true == True][["text", "source"]]
-    true_result.columns = ["Informacja prawdziwa", "Źródło"]
+    # true_result.columns = ["Informacja prawdziwa", "Źródło"]
 
     false_result = result.loc[result.is_true == False][["text"]]
-    false_result.columns = ["Fałsz"]
+    # false_result.columns = ["Fałsz"]
 
     return true_result, false_result
 
@@ -78,9 +81,9 @@ def only_elastic(query_string):
         result = pd.DataFrame(columns=["text", "source", "is_true"])
 
     true_result = result.loc[result.is_true == 'TRUE'][["text", "source"]]
-    true_result.columns = ["Informacja prawdziwa", "Źródło"]
+    # true_result.columns = ["Informacja prawdziwa", "Źródło"]
 
     false_result = result.loc[result.is_true == 'FALSE'][["text"]]
-    false_result.columns = ["Fałsz"]
+    # false_result.columns = ["Fałsz"]
 
     return true_result, false_result
