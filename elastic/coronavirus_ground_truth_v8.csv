@@ -1,0 +1,255 @@
+id,text,source,is_true
+1,Wirus 2019-nCoV to wirus należący do rodziny koronawirusów (coronaviridae).',www.mp.pl,TRUE
+2,"Koronawirusy występują u zwierząt i powodują u nich różne choroby (układu oddechowego, układu pokarmowego, wątroby, układu nerwowego), wiele zakażeń przebiega też bezobjawowo.'",www.mp.pl,TRUE
+3,Koronawirusy często mutują i mają dużą zdolność do zakażania nowych gatunków.',www.mp.pl,TRUE
+4,"Wszystkie poznane dotąd koronawirusy powodujące zakażenia u ludzi są wirusami, które wywołują objawy ze strony układu oddechowego, bardzo rzadko ze strony innych układów i narządów.'",www.mp.pl,TRUE
+5,"Możliwe, że oprócz zakażenia układu oddechowego u dzieci do 12. miesiąca życia mogą wywoływać biegunkę.'",www.mp.pl,TRUE
+6,"Do 2019 roku poznano 6 wirusów powodujących zakażenia u ludzi - Cztery z nich (229E, OC43, NL63, HKU1) są przyczyną przeziębienia o łagodnym przebiegu a dwa pozostałe (wirusy SARS i MERS) mogą prowadzić do zagrażającej życiu ostrej niewydolności oddechowej.'",www.mp.pl,TRUE
+7,"Koronawirus 2019-nCoV jest wirusem odpowiedzialnym za obecną epidemię zakażeń układu oddechowego, która rozpoczęła się w Wuhan, w Chinach i tam po raz pierwszy został zidentyfikowany w grudniu 2019 roku.'",www.mp.pl,TRUE
+8,COVID-19 to choroba wywołana przez koronawirus z Wuhan (2019-CoV). Wcześniej choroba nie miała nazwy i posługiwano się określeniami typu „choroba wywołana przez koronawirus” lub „zachorowanie z powodu zakażenia koronawirusem z Wuhan”.',www.mp.pl,TRUE
+9,"Nazwa COVID-19 została ogłoszona przez Światową Organizację Zdrowia (WHO) i obowiązuje oficjalnie. ""CO"" w nazwie oznacza koronę (ang. corona), ""VI"" – wirus (ang. virus), ""D"" - chorobę (ang. disease), a liczba 19 wskazuje rok pojawienia się wirusa – 2019 (Corona-Virus-Disease-2019).'",www.mp.pl,TRUE
+10,"Różnica między koronawirusem a COVID-19 jest taka, że koronawirus to czynnik wywołujący chorobę, a COVID-19 to choroba, czyli zespół objawów spowodowanych przez ten czynnik.'",www.mp.pl,TRUE
+11,"Pacjenci z potwierdzonym zakażeniem koronawirusem 2019-nCoV mieli objawy zakażenia układu oddechowego, takie jak gorączka,kaszel (raczej suchy),duszność.'",www.mp.pl,TRUE
+12,"Często występował także ból mięśni, rzadziej splątanie, ból głowy, ból gardła, produktywny (czyli „mokry”) kaszel, krwioplucie.'",www.mp.pl,TRUE
+13,"Biegunka występowała tylko u 2–3% chorych.' ,",www.mp.pl,TRUE
+14,Objawy zwykle pojawiały się między 2. a 14. dniem po zakażeniu.',www.mp.pl,TRUE
+15,"Początkowo objawy są łagodne, ich nasilenie narasta w czasie.'",www.mp.pl,TRUE
+16,"Przebieg zakażeń COVID-19 jest zróżnicowany: od bezobjawowego, przez łagodną chorobę układu oddechowego (podobną do przeziębienia), po ciężkie zapalenie płuc z zespołem ostrej niewydolności oddechowej i/lub niewydolnością wielonarządową.'",www.mp.pl,TRUE
+17,"Około 80% osób, które chorują na COVID-19 nie wymaga leczenia, a choroba ustępuje sama.'",www.mp.pl,TRUE
+18,"1 na 6 osób ma cięższy przebieg choroby, problemy z oddychaniem i wymaga leczenia.'",www.mp.pl,TRUE
+19,"Zgodnie z danymi Chińskiego Centrum Kontroli i Prewencji Chorób, obejmującymi ponad 70 000 przypadków COVID-19 odnotowanych do 11 lutego 2020 roku, 87% chorych z COVID-19 w Chinach należy do grupy wiekowej 30–79 lat, a 8% zachorowań dotyczyło osób w wieku 20–29 lat.'",www.mp.pl,TRUE
+20,Osoby po 70. roku życia stanowiły 3% wszystkich przypadków COVID-19. U 81% chorych nie doszło do rozwoju zapalenia płuc lub przebiegało ono łagodnie. U 14% chorych przebieg zakażenia oceniono jako ciężki.',www.mp.pl,TRUE
+21,"Należy pamiętać, że podobne objawy mogą występować przy wielu innych chorobach, zwłaszcza zakażeniach układu oddechowego, które są dość częste w sezonie jesienno-zimowym. Do zachorowania w powodu koronawirusa 2019-nCoV niezbędne jest zakażenie",www.mp.pl,TRUE
+22,"Zakazić sie koronawirusem można poprzez kontakt bezpośredni z osobą chorą (np. przy udzielaniu pomocy medycznej, w pracy, przebywanie w tym samym pomieszczeniu, wspólne podróżowanie lub mieszkanie razem),'",www.mp.pl,TRUE
+23,"Zakazić sie koronawirusem można poprzez podróżowanie do regionu, w którym wybuchła epidemia w ciągu 14 dni przed pojawieniem się objawów, praca w miejscu udzielania pomocy medycznej, gdzie przebywali i byli leczeni chorzy na koronawirus 2019-nCoV'",www.mp.pl,TRUE
+24,"Tak jak w przypadku innych zakażeń układu oddechowego, zakażenie koronawirusem może powodować łagodne objawy, takie jak ból gardła, kaszel i gorączkę. Jednak u niektórych osób może mieć ciężki przebieg i prowadzić do zapalenia płuc i problemów z oddychaniem.'",www.mp.pl,TRUE
+25,Zakażenie koronawirusem (COVID-19) może prowadzić do zgonu.',www.mp.pl,TRUE
+26,"Nie wiadomo dokładnie, ile osób jest zakażonych koronawirusem, ale nie ma żadnych objawów i nawet o tym nie wie. Z tego powodu bardzo trudne jest oszacowanie śmiertelności spowodowanej COVID-19.'",www.mp.pl,TRUE
+27,"Śmiertelność wśród wszystkich chorych w Chinach wyniosła 2,3%, w grupie wiekowej 70–79 lat – 8%, a wśród chorych w wieku ≥80 lat – 14,8%. Wśród zachorowań o przebiegu krytycznym śmiertelność wyniosła 49%. Śmiertelność wśród zakażonych SARS-CoV-2 obciążonych chorobami przewlekłymi była większa: w grupie osób z chorobami układu krążenia – 10,5%, z przewlekłymi chorobami układu oddechowego – 6,3%, z nadciśnieniem tętniczym – 6%, z chorobami nowotworowymi – 5,6%.'",www.mp.pl,TRUE
+28,"Natomiast śmiertelność we Włoszech wynosi około 7%, z czego 40% osób zmarłych z powodu COVID-19 było powyżej 79 roku życia.'",www.mp.pl,TRUE
+29,"z powodu grypy w zależności od sezonu umiera 0,1–0,5% chorych.'",www.mp.pl,TRUE
+30,"Koronawirusy są rodziną wirusów, które mogą występować u wielu gatunków ssaków (np. wielbłądów, kotów). Rzadko koronawirusy mogą się przenosić ze zwierząt na ludzi, a następnie dalej z człowieka na człowieka'",www.mp.pl,TRUE
+31,"Początkowo wydawało się, że przenoszenie koronawirusa 2019-nCoV wiąże się z kontaktem ze zwierzętami, ponieważ wielu chorych na zapalenie płuc w Wuhan w Chinach zgłaszało, że mieli kontakty z targiem rybnym lub targiem ze zwierzętami.'",www.mp.pl,TRUE
+32,"Obecnie wiadomo, że wirus może przenosić się z człowieka na człowieka.'",www.mp.pl,TRUE
+33,"Uważa się, że do większości zakażeń u ludzi dochodzi przede wszystkim drogą kropelkową, kiedy zakażona osoba kaszle lub kicha, podobnie jak przenosi się np. wirus grypy.'",www.mp.pl,TRUE
+34,"Wirus może także zostać przeniesiony, kiedy człowiek dotknie powierzchni lub przedmiotu, na którym znajduje się wirus (czyli np. ślina osoby chorej), a następnie dotknie swoich ust, nosa lub oczu'",www.mp.pl,TRUE
+36,"Obecnie nie ma pewności, jak łatwo koronawirus 2019-nCoV przenosi się między ludźmi, a badania cały czas trwają. Zakłada się, że jedna chora osoba zaraża 3-4 kolejne.'",www.mp.pl,TRUE
+37,"Zgodnie z najnowszymi doniesieniami prawdopodobnie jest możliwe zarażenie się koronawirusem od osób, które są zakażone, ale u których nie pojawiły się jeszcze objawy.'",www.mp.pl,TRUE
+38,"Bazując na dostępnych danych wiadomo, że za rozprzestrzenianie się wirusa odpowiadają głównie osoby, które mają objawy choroby.'",www.mp.pl,TRUE
+39,Obecnie nie ma szczepionki zapobiegającej zachorowaniu.',www.mp.pl,TRUE
+40,Najlepszym sposobem uniknięcia zachorowania jest unikanie kontaktu z wirusem.',www.mp.pl,TRUE
+41,Trwają prace nad stworzeniem szczepionki przeciwko COVID-19.',www.mp.pl,TRUE
+42,"Obecnie trwa pandemia COVID-19, co oznacza, że wirus jest w wielu krajach na świecie.'",www.mp.pl,TRUE
+43,"Zapobieganie zakażeniu polega na przestrzeganiu zaleceń władz dotyczących podróżowania, pozostawania w domu, kwarantanny oraz przestrzegania zasad higieny'",www.mp.pl,TRUE
+44,"Osoby, które mogą być zakażone koronawirusem (COVID-19) powinny bezzwłocznie, telefonicznie powiadomić powiatową stację sanitarno-epidemiologiczną lub zgłosić się bezpośrednio do oddziału zakaźnego lub oddziału obserwacyjno-zakaźnego.'",www.mp.pl,TRUE
+45,Nie należy zgłaszać się do lekarza rodzinnego lub SOR!',www.mp.pl,TRUE
+46,"Chorzy otrzymują leczenie, które ma na celu łagodzenie objawów (leczenie objawowe) oraz - w uzasadnionych przypadkach - chlorochinę, czyli jedyny lek zarejestrowany w Polsce do leczenia zakażenia SARS-CoV-2.'",www.mp.pl,TRUE
+47,"Na razie wszystko wskazuje na to, że do przeniesienia zakażenia potrzebny jest bezpośredni kontakt z osobą chorą.'",www.mp.pl,TRUE
+48,"Istnieją doniesienia, że wirus może przetrwać w aerozolu wytwarzanego przez osobę chorą (podczas kaszlu, kichania) w pomieszczeniu nawet do 3 godzin.'",www.mp.pl,TRUE
+49,"Są doniesienia że jedna osoba, która jechała autobusem, w którym wcześniej przebywał chory zostala zarażona'",www.mp.pl,TRUE
+50,"Nie ma dotychczas żadnych danych wskazujących na to, że zwierzęta domowe, takie jak psy i koty mogą przenosić zakażenie koronawirusem 2019-nCoV.'",www.mp.pl,TRUE
+51,"Zaleca się przestrzeganie zasad higieny, np. mycie rąk wodą z mydłem po kontakcie ze zwierzętami domowymi, ponieważ mogą one przenosić na człowieka różne bakterie (np. E. coli albo Salmonellę).'",www.mp.pl,TRUE
+52,"Światowa Organizacja Zdrowia (WHO) 11.03.20. ogłosiła pandemię, co oznacza, że nowy koronawirus SARS-CoV-2 rozprzestrzenia się na całym świecie.'",www.mp.pl,TRUE
+53,12. marca 2020 w Polsce wprowadzono stan epidemiczny zgodnie z ustawą o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.',www.mp.pl,TRUE
+54,10 marca podjęto decyzję o odwołaniu imprez masowych',www.mp.pl,TRUE
+55,"11 marca o zawieszeniu zajęć na uczelniach, w przedszkolach, szkołach i placówkach oświatowych do 25 marca oraz o tym, żeby 19 placówek medycznych przekształcić w szpitale zakaźne.'",www.mp.pl,TRUE
+56,"Tak. Wszyscy pacjenci z objawami koronawirusa będą leczeni bezpłatnie, również osoby nieubezpieczone.'",www.mp.pl,TRUE
+57,Myj ręce wodą z mydłem lub używając środka odkażającego na bazie alkoholu',www.mp.pl,TRUE
+58,"Mycie rąk wodą z mydłem lub środkiem na bazie alkoholu zabija wirusy, jeśli są na twoich rękach.'",www.mp.pl,TRUE
+59,"Jeśli kichasz lub kaszlesz, zasłoń usta i nos zgiętym ramieniem (kichaj w zgięcie łokcia) lub chusteczką, którą następnie wyrzuć natychmiast do zamykanego kosza na śmieci i umyj starannie ręce'",www.mp.pl,TRUE
+60,Zasłanianie ust i nosa podczas kaszlu zapobiega rozprzestrzenianiu się bakterii i wirusów.',www.mp.pl,TRUE
+61,"Jeśli podczas kaszlu lub kichania zasłaniasz się dłonią, możesz następnie przenieść drobnoustroje na innych ludzi (np. podając im rękę) lub przedmioty (np. dotykając klamek, włączników światła i innych powierzchni).'",www.mp.pl,TRUE
+62,"Nie zbliżaj się do innych na mniej niż 1 metr, a zwłaszcza do osób, które kaszlą, kichają lub mają gorączkę.'",www.mp.pl,TRUE
+63,"Kiedy osoba mająca zakażenie układu oddechowego, taką jak koronawirus, kaszle lub kicha, może rozprzestrzeniać małe ilości wydzieliny („kropelki”, stąd nazwa przenoszenia takich chorób – droga kropelkowa) zawierającej wirus.'",www.mp.pl,TRUE
+64,"Jeśli będziesz blisko osoby, możesz zostać zakażony.'",www.mp.pl,TRUE
+65,"Twoje dłonie mają kontakt z różnymi powierzchniami, na których może znajdować się wirus.'",www.mp.pl,TRUE
+66,"Jeśli dotykasz zakazonymi rękami oczu, nosa lub ust, możesz przenieść na siebie zakażenie.'",www.mp.pl,TRUE
+67,"Jeżeli w ciągu ostatnich 14 dni byłeś w Chinach lub miałeś kontakt z osobą, która była w tym czasie w Chinach, a jednocześnie masz gorączkę powyżej 38° i kaszel lub duszność, to powinieneś zgłosić się na najbliższy szpitalny oddział chorób zakaźnych.'",www.mp.pl,TRUE
+68,"W przypadku wystąpienia objawów, takich jak gorączka, kaszel i trudności z oddychaniem, bardzo ważne jest, żeby zgłosić się pilnie do lekarza, ponieważ ich powodem może być zakażenie układu oddechowego lub inna poważna choroba.'",www.mp.pl,TRUE
+69,"Objawy ze strony układu oddechowego mogą mieć wiele przyczyn i w zależności od twojej sytuacji, historii podróży i innych okoliczności (np. kontaktu z osobą, która mogła być zakażona), jedną z przyczyn może być koronawirus z Wuhan.'",www.mp.pl,TRUE
+70,Korona wirusem mozna zakazić sie gdy osoba zarażona mieszka w tym samym gospodarstwie domowym',www.mp.pl,TRUE
+71,"Mozna zarazić sie od osoby, która podróżowała w samolocie siedząc w odległości do 2 miejsc (w każdym kierunku), osoba wspólnie podróżująca lub sprawująca opiekę nad z osobą zakażoną koronawirusem lub członkowie personelu pokładowego obsługujący daną sekcję samolotu, w której siedziała osoba zakażona koronawirusem'",www.mp.pl,TRUE
+72,Dłuższy czas kontaktu zwiększa ryzyko przeniesienia zakażenia.',www.mp.pl,TRUE
+73,"Wartość graniczną 15 minut przyjęto jako punkt odniesienia. Nie znaczy to, że osoba, która przebywała 17 minut w zamkniętym pomieszczeniu z osobą zakażoną koronawirusem ma znacznie większe ryzyko zarażenia, ani że osoba, która przebywała tam 14 minut, nie ma żadnego ryzyka zakażenia.'",www.mp.pl,TRUE
+74,Przesyłki z Chin są bezpieczne i nie należy obawiać się zakażenia koronawirusem w sposób inny niż w wyniku bezpośredniego kontaktu z osobą zakażoną',www.mp.pl,TRUE
+75,"Nie są dostępne środki, które chroniłyby przed zakażeniem i mogłyby być stosowane np. na skórę.'",www.mp.pl,TRUE
+76,"Przed zakażeniem chroni przede wszystkim przestrzeganie zasad higieny, czyli częste i dokładne mycie rąk ciepłą wodą i środkiem myjącym lub stosowanie żeli odkażających w sytuacji, gdy nie możemy umyć rąk w sposób tradycyjny.'",www.mp.pl,TRUE
+77,"Ciężki przebieg choroby obserwuje się u ok.15-20% osób. Do zgonów dochodzi u 2-3% osób chorych.Prawdopodobnie dane te zawyżone, gdyż u wielu osób z lekkim przebiegiem zakażenia nie dokonano potwierdzenia laboratoryjnego.',",www.gov.pl,TRUE
+78,"Najbardziej narażone na rozwinięcie ciężkiej postaci choroby i zgon są osoby starsze, z obniżoną odpornością, którym towarzyszą inne choroby, w szczególności przewlekłe.',",www.gov.pl,TRUE
+79,"Wirus przenosi się drogą kropelkową.',",www.gov.pl,TRUE
+80,"Aktualnie nie ma szczepionki przeciw nowemu koronawirusowi.',",www.gov.pl,TRUE
+81,Od niedzieli 15 marca zamykamy na 10 dni granice naszego kraju dla cudzoziemców. ,www.gov.pl,TRUE
+82,"Wszyscy polscy obywatele powracający do Polski będą także poddani obowiązkowej 14-dniowej kwarantannie domowej',",www.gov.pl,TRUE
+83,"Zawieszone są międzynarodowe pasażerskie połączenia lotnicze i kolejowe, ale transport cargo działa',",www.gov.pl,TRUE
+84,"Towary będą wyjeżdżały i wjeżdżały do Polski bez zakłóceń.',",www.gov.pl,TRUE
+85,"Polacy będą mogli wrócić do Polski także transportem kołowym, czyli samochodami osobowymi, busami i autokarami.'",www.gov.pl,TRUE
+86,"Polskę będzie można opuścić transportem kołowym na przejściach granicznych',",www.gov.pl,TRUE
+87,"Po przekroczeniu granicy każdy Polak zostanie zarejestrowany i przebadany i skierowany na obowiązkową 14-dniową kwarantannę domową pod karą grzywny.',",www.gov.pl,TRUE
+88,Banki i placówki finansowe działają normalnie.',www.gov.pl,TRUE
+89,"Wszyscy polscy obywatele znajdujący się teraz poza granicami – mogą wracać do Polski',",www.gov.pl,TRUE
+90,Zimna pogoda i snieg niszczą koronawirusa,www.newsweek.com,FALSE
+91,Wraz z nadejsciem ciepleszych dni zagrozenie koronawirusem zmaleje,www.newsweek.com,FALSE
+92,Gorąca kąpiel po powrocie do domu zmiejsza ryzyko zarazenia wirusem,www.newsweek.com,FALSE
+93,Zakażenie korona wirusem może być przenoszone przez komary,www.newsweek.com,FALSE
+94,Gorące powietrze z suszarki do włosów jest skuteczne w dezynfekcji rąk.,www.newsweek.com,FALSE
+95,Ultrafioletowe lampy denzyfekacyjne są skuteczne  w zabijaniu korona wirusa. ,www.newsweek.com,FALSE
+96,Skanery termiczne są skuteczne w wykrywaniu osób zarażonych koronawirusem,www.newsweek.com,FALSE
+97,Szczepienia przeciwko zapaleniu płuc chronią przed zakazeniem korona wirusem,www.newsweek.com,FALSE
+98,Plukanie nosa roztworem soli pomoże zapobiec infekcji COVID-19,www.newsweek.com,FALSE
+99,Jedzenie czosnku może zapobiec infekcji COVID-19,www.newsweek.com,FALSE
+100,Korona wirus atakuje tylko osoby w podeszłym wieku,www.newsweek.com,FALSE
+101,Antybiotyki są skuteczne w leczeniu i zapobieganiu zakażeniom koronawirusem,www.newsweek.com,FALSE
+102,Nie ma dowodów na to że mróz zabija koronawirusy.,www.newsweek.com,TRUE
+103,Do zakażeń koronawirusem może dojść w każdym obszarze włączając to rejony gorące i wilgotne.,www.newsweek.com,TRUE
+104,"Gorąca kąpiel po powrocie do domu nie zmniejsza ryzyka zachorowania na COVID-19 gdyż temperatura ciała pozostaje stałą (36,6-37) niezależnie od temperatury wody a temperatura wody jest za niska aby zabić koronawirusa",www.newsweek.com,TRUE
+105,Aktualnie nie ma dowodów na to że koronawirus jest przenoszony przez komary.,www.newsweek.com,TRUE
+106,Szuszarki do włosów nie są skuteczne w zapobieganiu zakażeniom koronawirusem.,www.newsweek.com,TRUE
+107,Lampy ultrafioletowe nie mogą być wykorzystywane do dezynfekcji skóry np. rąk ponieważ promieniowanie UV powoduje podrażnienia,www.newsweek.com,TRUE
+108,Skanery termicze wykrywają osoby z gorączką i nie wykryją osób zakażonych ale bez gorączki. Osoby zakażone zaczynają chorować z objawami gorączki po od 2 do 10 dni od zakazenia ,www.newsweek.com,TRUE
+109,Szczepionki przeciwko zapaleniom płuc jak szczepionka przeciw pneumokokom nie chronią przed koronawirusem. Koronawirus musi mieć własną szczepionkę,www.newsweek.com,TRUE
+110,Nie ma dowodów na to ze regularne czyszczenie nosa solą fizjologiczną obniża ryzyko zakażenia koronawirusem,www.newsweek.com,TRUE
+111,Czosnek ma potwierdzone właściwosći pro zdrowtne jednak nie ma dowodów na to że jego spożywanie obniża ryzyko zakażenia koronawirusem,www.newsweek.com,TRUE
+112,"Zakażić sie mogą ludzie w różnym wieku ale to ludzie starsi oraz osoby ze schorzeniami astma, cukrzyca oraz choroby serca są bardziej narażeni na zakażenie",www.newsweek.com,TRUE
+113,Antybiotyki nie działąją na wirusy tylko na bakterie.,www.newsweek.com,TRUE
+114,"Osoby zakażone koronawirusem mają: wysoką gorączkę, kaszel, duszności,kłopoty z oddychaniem.  ",pacjent.gov.pl,TRUE
+115,"Jesli zaobserwowałeś u siebie  objawy koronawirusa to bezzwłocznie, telefonicznie powiadom stację sanitarno-epidemiologiczną, lub zgłoś się własnym transportem bezpośrednio do oddziału zakaźnego lub oddziału obserwacyjno-zakaźnego, gdzie określony zostanie dalszy tryb postępowania medycznego. Nie korzystaj z komunikacji publicznej, żeby nie zakażać innych.",pacjent.gov.pl,TRUE
+116,"Jeśli byłeś przed wprowadzeniem obowiązkowej kwarantanny za granicą, w krajach, w których wiele osób choruje, ale nie zaobserwowałeś u siebie wyżej wymienionych objawów, to przez 14 dni kontroluj swój stan zdrowia, czyli codziennie mierz temperaturę ciała oraz zwróć uwagę na występowanie objawów grypopodobnych (złe samopoczucie, bóle mięśniowe, kaszel).",pacjent.gov.pl,TRUE
+117,"Jeżeli w ciągu 14 dni samoobserwacji zaobserwujesz  objawy choroby COVID-19 to: pozostań w domu bezzwłocznie, telefonicznie powiadom stację sanitarno-epidemiologiczną lub zgłoś się bezpośrednio do oddziału zakaźnego lub oddziału obserwacyjno-zakaźnego, gdzie określony zostanie dalszy tryb postępowania medycznego.",pacjent.gov.pl,TRUE
+118,Od 15 marca po powrocie do Polski jesteś zobowiązany poddać się obowiązkowej 14-dniowej kwarantannie.,pacjent.gov.pl,TRUE
+119,"We wszystkich sprawach zdrowotnych uzyskasz w placówkach podstawowej opieki zdrowotnej poradę przez telefon. Sprawdź, w której placówce POZ w pobliżu możesz uzyskać teleporadę",pacjent.gov.pl,TRUE
+120,"Objawy koronawirusa u dziecka: kaszel,katar,biegunka, a także przekrwienie błony śluzowej nosa i bóle głowy.",pacjent.gov.pl,TRUE
+121,"Aby chronić swoje dziecko dopilnuj, by Twoje dzieci, w tym młodzież, nie spotykały się w miejscach publicznych i większych grupach, gdy nie chodzą do szkoły",pacjent.gov.pl,TRUE
+122,"Aby chronić swoje dziecko zapoznaj je z zasadami higieny. Jeśli wychodzicie, pilnuj, by nie dotykało rzeczy, które dotykają inni ludzie (klamek, przycisku od domofonu, słupków, latarni itp.). Naucz je prawidłowo myć ręce",pacjent.gov.pl,TRUE
+123,"Jeśli dziecko źle się czuje, powinno zostać w domu i odpoczywać.",pacjent.gov.pl,TRUE
+124,"Należy izolować dziecko od osób, które źle się czują. Jeśli inny domownik ma infekcję, dziecko nie powinno przebywać razem z nim w pomieszczeniu",pacjent.gov.pl,TRUE
+126,"Pomóż swojemu dziecku poradzić sobie ze stresem związanym z koronawirusem. Wyjaśnij mu, co to jest za wirus, jak można się nim zarazić oraz jak można się przed nim chronić. Zapewnij go, że to sytuacja przejściowa, z którą sobie poradzimy, jeśli będziemy przestrzegać zasad higieny i unikania kontaktu z innymi osobami. Powiedz dziecku, że zawsze może Cię o wszystko zapytać. Pamiętaj, że dzieci inaczej patrzą na pewne sprawy. Ważne, by dużo z dzieckiem rozmawiać i by samemu zachować spokój",pacjent.gov.pl,TRUE
+129,"Chorobotwórcze drobnoustroje mogą znajdować się na powierzchni rzeczy, których codziennie dotykamy, takich jak pieniądze, klawiatura komputera, telefon komórkowy, testery kosmetyków w sklepach, piloty do telewizorów. To dlatego, że wiele osób ich dotyka oraz rzadko pamiętamy o ich dezynfekowaniu.",pacjent.gov.pl,TRUE
+130,"Chociaż wirusy potrzebują żywego nosiciela, by żyć i się namnażać, to potrafią przetrwać także poza żywym organizmem i w ten sposób zakażać. To, ile czasu przetrwają, zależy m.in. od temperatury, wilgotności, odczynu (pH) i promieniowania ultrafioletowego (np. nasłonecznienia).",pacjent.gov.pl,TRUE
+131,"Badania sugerują, że koronawirusy (np. SARS, MERS) mogą utrzymywać się na powierzchniach przez kilka godzin lub nawet kilka (2-3) dni.Może się to różnić w różnych warunkach (np. rodzaj powierzchni, temperatura lub wilgotność otoczenia).",pacjent.gov.pl,TRUE
+132,"Aby ochronić sie przed zakażeniem: Nie podawaj ręki, nie całuj na powitanie, nie obejmuj,Wirus przenosi się drogą kropelkową – zachowaj dystans od rozmówcy 1–1,5 metra,Jeśli możesz zostań w domu i unikaj dużych skupisk ludzkich, unikaj bliskiego kontaktu z chorymi.",pacjent.gov.pl,TRUE
+133,"Myj ręce mydłem przez 30 sekund, dokładnie, nie omijając żadnej części, tak jak jest to opisane w instrukcji Głównego Inspektoratu Sanitarnego:  zawsze jak wracasz do domu, zawsze przed jedzeniem,po przyjściu do pracy,każdorazowo po przemieszczeniu się publicznym transportem,po skorzystaniu z toalety, po wydmuchaniu nosa, kaszlu lub kichaniu,zawsze, jeśli ręce są brudne, lepkie itp.",pacjent.gov.pl,TRUE
+134,"Po myciu najlepiej wytrzyj ręce w papierowy ręcznik. Jeśli używasz ręcznika z tkaniny, pierz go często.",pacjent.gov.pl,TRUE
+135,"Jeśli nosisz tipsy lub długie paznokcie, używaj szczoteczki do paznokci (i często ją dezynfekuj)",pacjent.gov.pl,TRUE
+136,"Jeśli mydło i woda nie są łatwo dostępne, użyj środka dezynfekującego zawierającego co najmniej 60% alkoholu. Możesz go też użyć po umyciu rąk.",pacjent.gov.pl,TRUE
+137,"Jeśli kaszlesz, kichasz, wycierasz nos, używaj jednorazowych chusteczek, a potem od razu je wyrzucaj.",pacjent.gov.pl,TRUE
+138,"Jeśli kichasz, zasłoń usta jednorazową chusteczką lub przedramieniem, a nie dłonią.",pacjent.gov.pl,TRUE
+139,"Nie dotykaj twarzy, a zwłaszcza ust i nosa.",pacjent.gov.pl,TRUE
+140,"Maseczki ochronne przeznaczone są dla osób chorych, opiekujących się chorymi oraz pracowników ochrony zdrowia.",pacjent.gov.pl,TRUE
+141,"W miarę możliwości włączniki światła, przyciski w windzie, klamki itp. naciskaj łokciem lub kostką zgiętego palca.",pacjent.gov.pl,TRUE
+142,"Nie dotykaj guzików w autobusach, tramwajach i metrze, przycisków stop, ani żółtych guzików na przejściach.",pacjent.gov.pl,TRUE
+143,"Nie liż znaczków na poczcie, nie zwilżaj palców, by przewrócić kartkę lub otworzyć plastikową torebkę.",pacjent.gov.pl,TRUE
+144,"W domu czyść i dezynfekuj często dotykane przedmioty i powierzchnie (np. stoły, blaty, włączniki światła, klamki i uchwyty szafek) za pomocą wody z detergentem lub innych odpowiednich środków.",pacjent.gov.pl,TRUE
+145,Regularnie dezynfekuj swój telefon komórkowy (np.: wilgotnymi chusteczkami nasączonymi środkiem dezynfekującym).,pacjent.gov.pl,TRUE
+146,Nie kładź telefonu na stole i nie korzystaj z niego podczas jedzenia.,pacjent.gov.pl,TRUE
+147,"Nie jedz niczego bez umycia rąk, czyli na mieście nie rozpakowuj batonika czy innego jedzenia, żeby je zjeść.",pacjent.gov.pl,TRUE
+148,"Rutynowo czyść wszystkie często dotykane powierzchnie w miejscu pracy, takie jak klawiatury, blaty i klamki.",pacjent.gov.pl,TRUE
+149,"Brudne ręce są przyczyną licznych chorób, a w niektórych regionach świata nawet śmierci. Wystarczy odruchowo dotknąć nieumytymi rękami okolic oczu, nosa czy ust i jesteśmy narażone na ogromne ryzyko infekcji",www.gis.gov.pl,TRUE
+150,"Każde dotknięcie klamki, banknotu czy poręczy w autobusie sprawia, że na nasze ręce dostaje się od 100 do 10 tys. komórek drobnoustrojów. To bomba bakteryjna, którą rozbroić może tylko mycie rąk. Wystarczy kilkadziesiąt sekund myć ręce, by oczyścić je z 90 proc. bakterii. Żeby uzyskać najlepszy efekt potrzebne jest niecała minuta",www.gis.gov.pl,TRUE
+151,"Zasady mycia rąk: myj ręce ok. 30 sekund,rozpocznij od zmoczenia rąk wodąnabierz tyle mydła, aby pokryły całą powierzchnię dłoni,dokładnie rozprowadź mydło po powierzchni pocierając o siebie rozprostowane dłonie,pamiętaj o dokładnym umyciu przestrzeni między,palcami,grzbietów palców oraz okolic kciuków,na koniec dokładnie opłucz ręce wodą i wytrzyj ręce do sucha jednorazowym ręcznikiem",www.gis.gov.pl,TRUE
+152,"Myjąc ręce w miejscu publicznym staraj się nie dotykać umytymi rękoma klamek, drzwi oraz innych elementów wyposażenia, mogą znajdować się na nich liczne bakterie. Wychodząc możesz posłużyć się papierowym ręcznikiem, który ograniczy kontakt z drobnoustrojami",www.gis.gov.pl,TRUE
+153,"Mycie rąk to prosty i skuteczny sposób by zatrzymać rozprzestrzenianie się zakażeń, niestety często jest bagatelizowany. ",www.gis.gov.pl,TRUE
+154,"A przede wszystkim mycie rąk pozwala usunąć z powierzchni rąk m.in. bakterie, wirusy czy grzyby odpowiadające za cały szereg groźnych chorób, jak choćby salmonellę czy grypę.",www.gis.gov.pl,TRUE
+155,"Do „chorób brudnych rąk” zalicza się także biegunki, zatrucia pokarmowe i wirusowe zapalenie wątroby typu A",www.gis.gov.pl,TRUE
+156,zbyt bliski kontakt z osobą zakażoną oznacza że osoba pozostawała w bezpośrednim kontakcie z osobą chorą lub w kontakcie w odległości mniej niż 2 metrów przez ponad 15 minut,www.gov.pl,TRUE
+157,zbyt bliski kontakt z osobą zakażoną oznacza że osoba prowadziła rozmowę z osobą z objawami choroby twarzą w twarz przez dłuższy czas,www.gov.pl,TRUE
+158,zbyt bliski kontakt z osobą zakażoną oznacza że  osoba zakażona należy do grupy najbliższych przyjaciół lub kolegów,www.gov.pl,TRUE
+159,"Kryteria epidemiologiczne są spełnione gdy osoba, która w okresie 14 dni przed wystąpieniem objawów spełniała co najmniej jedno z następujących kryteriów: podróżowała lub przebywała w regionie, w którym stwierdzono występowania koronawirusa SARS-CoV-2; miała bliski kontakt z osobą, u której stwierdzono zakażenie SARS-CoV-2 (kontakt z przypadkiem potwierdzonym lub przypadkiem prawdopodobnym); pracowała lub przebywała jako odwiedzający w jednostce opieki zdrowotnej,  w której leczono pacjentów zakażonych koronawirusem SARS-CoV-2",www.gov.pl,TRUE
+161,"Rozpylanie alkoholu lub chloru na ciele nie zabije wirusów, które już dostały się do organizmu ",https://zdrowie.radiozet.pl/,TRUE
+162,"Obecnie nie ma dowodów na to, że zwierzęta domowe, takie jak psy lub koty, mogą zostać zarażone nowym koronawirusem.",https://zdrowie.radiozet.pl/,TRUE
+163,Warto jednak myć ręce mydłem i wodą po kontakcie ze zwierzętami,https://zdrowie.radiozet.pl/,TRUE
+164,"Szczepionki przeciw zapaleniu płuc, takie jak szczepionka przeciw pneumokokom i szczepionka przeciwko Haemophilus influenza typu B (Hib), nie zapewniają ochrony przed nowym koronawirusem",https://zdrowie.radiozet.pl/,TRUE
+165,Nie istnieje konkretny lek zalecany do zapobiegania lub leczenia zakażenia nowym koronawirusem,https://zdrowie.radiozet.pl/,TRUE
+166,"Grypa rozwija się po zakażeniu wirusem grypy, a COVID-19 to choroba, która może rozwinąć się po zakażeniu koronawirusem 2019-nCoV ",https://zdrowie.radiozet.pl/,TRUE
+167,"CoVID-19 łatwo pomylić z grypą, bo we wczesnym stadium choroby objawy są niemal identyczne  i mogą mieć łagodny lub ciężki przebieg, prowadząc do poważnych powikłań, a nawet śmierci człowieka ",https://zdrowie.radiozet.pl/,TRUE
+168,Grypę i CoVID-10 wywolują zupełnie inne wirusy,https://zdrowie.radiozet.pl/,TRUE
+169,"Istnieje szczepionka przeciw grypie, którą można szczepić się co roku. Na koronawirusa nie ma jeszcze szczepionki, z której mogliby korzystać pacjenci, choć badania nad takim preparatem trwają ",https://zdrowie.radiozet.pl/,TRUE
+170,"Zarówno grypę, jak i COVID-19 wywołują wirusy",https://zdrowie.radiozet.pl/,TRUE
+171,"COVID-19 i grypa mają podobne objawy, dlatego choroby te na początku łatwo ze sobą pomylić. W obu przypadkach częstymi objawami są: kaszel, gorączka, osłabieni",https://zdrowie.radiozet.pl/,TRUE
+172,"Wirusy grypy oraz koronawirus 2019-nCoV mają te same drogi transmisji. Przenoszą się poprzez bezpośredni kontakt z osobami zarażonymi, rozprzestrzeniają się drogą kropelkową oraz poprzez kontakt ze skażonymi przedmiotami",https://zdrowie.radiozet.pl/,TRUE
+173,"Zakażenie wirusem grypy, jak i koronawirusem może wystąpić u ludzi w każdym wieku, ale na ciężkie zachorowania narażone są przede wszystkim osoby starsze i przewlekle chorzy oraz osoby z zaburzeniami odporności.",https://zdrowie.radiozet.pl/,TRUE
+174,"Grypa to choroba zakaźna układu oddechowego wywołana zakażeniem wirusem grypy. Grypę mogą powodować 3 rodzaje wirusa (A, B i C) należącego do rodziny ortomyksowirusów. Wirus C powoduje zachorowanie o lżejszym przebiegu, natomiast wirusy A i B są przyczyną ciężkich zachorowań, które mogą osiągać rozmiary epidemii grypy.",https://zdrowie.radiozet.pl/,TRUE
+175,"COVID-19 jest chorobą zakaźną wywoływaną przez wirus grypopodobny - koronawirus z Wuhan 2019-nCoV. Należy wiedzieć, że koronawirus to czynnik wywołujący chorobę, a COVID-19 to choroba, czyli zespół objawów spowodowanych przez ten czynnik.",https://zdrowie.radiozet.pl/,TRUE
+176,Objawy COVID-19 przypominają grypę i obejmują: gorączkę; kaszel; duszność;ból mięśni;splątanie;ból głowy;ból gardła. Objawy zwykle pojawiają się między 2. a 14. dniem po zakażeniu koronawirusem,https://zdrowie.radiozet.pl/,TRUE
+177,"Przebieg COVID-19, podobnie jak w przypadku grypy, jest zróżnicowany: od bezobjawowego, przez łagodną chorobę układu oddechowego, po ciężkie zapalenie płuc z zespołem ostrej niewydolności oddechowej lub niewydolnością wielonarządową",https://zdrowie.radiozet.pl/,TRUE
+178,Koronawirus 2019-nCoV przenosi się przede wszystkim poprzez kontakt człowiek-człowiek,https://zdrowie.radiozet.pl/,TRUE
+179,"Wirus może być transmitowany poprzez bezpośredni kontakt fizyczny z zakażoną osobą, bezpośredni kontakt z kroplami oddechowymi, gdy zarażona osoba kicha, kaszle lub wydycha, pośredni kontakt poprzez dotknięcie zanieczyszczonych powierzchni",https://zdrowie.radiozet.pl/,TRUE
+180,Najlepszym sposobem uniknięcia zachorowania jest unikanie kontaktu z wirusem,https://zdrowie.radiozet.pl/,TRUE
+181,"Nie ma również leku przeciwwirusowego, który byłby zalecany do leczenia zakażenia koronawirusem 2019-nCoV.",https://zdrowie.radiozet.pl/,TRUE
+182,"używanie aromaterapii i olejków eterycznych, zapobiega i leczy COVID-19",news.sky.com,FALSE
+183,"koronawirus nie jest odporny na ciepło - wystarczy wyjść na zewnątrz, aby się zdezynfekować",news.sky.com,FALSE
+184,"COVID-19 nie zaraża dzieci, ponieważ nie widzieliśmy żadnych przypadków zachorowań dzieci",news.sky.com,FALSE
+185,Mozna sie zarazic koronawirusem od kota lub psa,,FALSE
+186,Wirus 2019-nCoV to wirus należący do nieznanej wczesniej rodziny wirusów dlatego jego rozprzestrzenianie jest takie szybkie,,FALSE
+187,Koronawirusy występują u zwierząt ale zwierzęta nie chorują na choroby z tym zwiazane,,FALSE
+188,"Wszystkie poznane dotąd koronawirusy powodujące zakażenia u ludzi są wirusami, które wywołują objawy ze strony układu oddechowego i innych ukladów układów szczególnie układu nerwowego",,FALSE
+189,Koronawirus i COVID-19 to jedno i to samo,,FALSE
+190,Pacjenci z potwierdzonym zakażeniem koronawirusem 2019-nCoV mieli przede wszystkim biegunke,,FALSE
+191,Objawy zakazenia koronawirusem następują niemalże natychmiast po zakażeniu i jezeli po dwóch dniach nie występują to znaczy ze do zakażenia nie doszło,,FALSE
+192,"Wszystkie osoby chore na COVID-19 nie wymagają leczenia, a choroba ustępuje sama.'",,FALSE
+193,"Wszystkie osoby chore na COVID-19 wymagają leczenia, a choroba ma ciężki przebieg wymagający hospitalizacji.'",,FALSE
+194,"Należy pamiętać, że  objawy COVID-19 są bardzo charakterystyczne i i od razu do rozpoznania. Jesli ich nie masz to znaczy ze jestes zdrowy",,FALSE
+195,"kontakt bezpośredni z osobą chorą (np. przy udzielaniu pomocy medycznej, w pracy, przebywanie w tym samym pomieszczeniu, wspólne podróżowanie lub mieszkanie razem) nie zagraża zarażeniu",,FALSE
+196,"podróżowanie do regionu, w którym wybuchła epidemia w ciągu 14 dni przed pojawieniem się objawów, praca w miejscu udzielania pomocy medycznej, gdzie przebywali i byli leczeni chorzy na koronawirus 2019-nCoV jest wskazane w celu nabrania odpornosci",,FALSE
+197,"Śmiertelność wśród wszystkich chorych w Chinach wyniosła 2,3%,  jest to zdecydowanie poniżej smiertelnosci sezonowej grypy, która jest na poziomie 10%",,FALSE
+198,"Natomiast śmiertelność we Włoszech wynosi około 7% i jest to normalny przebieg tego typu chorów w kraju, który jest na nią nieprzygotowany.",,FALSE
+199,z powodu grypy w zależności od sezonu umiera 10–15% chorych.',,FALSE
+200,"Koronawirusy są rodziną wirusów, które mogą występować u wielu gatunków ssaków (np. wielbłądów, kotów) i dlatego mozna sie zarazic korona wirusem od zwierząt",,FALSE
+201,"Przenoszenie koronawirusa 2019-nCoV wiąże się z kontaktem ze zwierzętami, ponieważ wielu chorych na zapalenie płuc w Wuhan w Chinach zgłaszało, że mieli kontakty z targiem rybnym lub targiem ze zwierzętami.'",,FALSE
+202,"Dotykanie przedmiotów jest bezpieczne - wirus nie może także zostać przeniesiony, kiedy człowiek dotknie powierzchni lub przedmiotu, na którym znajduje się wirus (czyli np. ślina osoby chorej)'",,FALSE
+203,"Zakłada się, że jedna chora osoba zaraża tylko 3-4 kolejne i tak naprawde nie ma koniecznosci kwarantanny oraz innych ograniczeń'",,FALSE
+204,"Zgodnie z najnowszymi badaniami amerykańskich ośrodków badawczych nie jest możliwe zarażenie się koronawirusem od osób, które są zakażone, ale u których nie pojawiły się jeszcze objawy.'",,FALSE
+205,Prace nad szczepionką są zaawansowanie i niedlugo bedzie ona dostępna.',,FALSE
+206,Najlepszym sposobem uniknięcia zachorowania ponownie jest uodpornienie sie na chorobe poprzez jej jak najszybsze odchorowanie.',,FALSE
+207,"Tylko ze względu na skalę COVID-19, jest problemem w wybranych , bogatych krajach jak Niemcy, Wkl. Brytania czy Włochy",,FALSE
+208,Podrozowanie do regionów ograrniętych epidemia pozwala na nabranie odporności.',,FALSE
+209,"Jako ze we wczesnej fazie infekcja nie jest zaraźliwa, osoby z objawami COVID-19 mogą zgłosić sie do przychodni rejonowej następnego dnia.",,FALSE
+210,Leczenia zakażenia SARS-CoV-2. odbywa sie tak samo jak w przypadku grypy sezonowej',,FALSE
+211,Koronawirus nie może długo utrzymywać sie poza ogranizmem i w zasadzie od razu ginie,,FALSE
+212,W komunikacji miejskiej nie trzeba zachowywać środków ostrożnosci.,,FALSE
+213,Ze względu na zagrozenie zakażenia ludzi zwierzęta domowe muszą zostać oddane do schroniska,,FALSE
+215,Tylko osoby ubezpieczone bedą leczone. Bezrobotni oraz rolnicy ze względu na niskie zagrożenie zakażeniem nie będą mieli dostępu do świadczeń',,FALSE
+216,Mycie rąk wodą z mydłem lub środkiem na bazie alkoholu jest wskazane ale niekonieczne bo wirusy nie mogę przetrwać na ludzkich rękach.',,FALSE
+217,"Jeśli będziesz blisko osoby zakazonej , możesz zostać zakażonty tylko pod warunkiem ze ona kaszle i kicha'",,FALSE
+218,"Twoje dłonie mają kontakt z różnymi powierzchniami, na których może znajdować się wirus ale są one naturalnym zabezpieczeniem przed infekcją'",,FALSE
+219,"Jeżeli w ciągu ostatnich 14 dni byłeś w Chinach lub miałeś kontakt z osobą, która była w tym czasie w Chinach, a jednocześnie masz gorączkę powyżej 38° i kaszel lub duszność, to powinieneś zgłosić się  do najbliższej przychodni",,FALSE
+220,Gdy osoba zarażona koronawirusem z objawiami COVID-19 mieszka w tym samym gospodarstwie domowym a inni domownicy nie mają objawów to znaczy ze są uodpornieni',,FALSE
+221,Im dłuższy czas kontaktu z zarażonym tym ryzyko zakażenia spada ponieważ organizm od razu zaczyna sie uodparniać na chorobę..',,FALSE
+222,Przesyłki z Chin są tak samo niebezpieczne i można zarazić sie chorobą w taki sam sposób jak podczas spotkania z osobą chorą na COVID-19,,FALSE
+223,Firmy farmaceutyczne bedą produkować srodki przeciwwirusowe w postaci kremów na skórę i bedą one dostępne w Internecie w formie sprzedaży wysyłkowej',,FALSE
+226,Ze wzgledu na osiadanie koronawirusa na opakowaniach towary będą musiały być zatrzymywane na granicy i poddawane kwarantannie tak samo jak podróżujący,,FALSE
+227,Banki i placówki finansowe będą racjonować ilość gotówki jaką bedzie można wypłacić.',,FALSE
+228,"Wszyscy polscy obywatele znajdujący się teraz poza granicami – mogą wracać do Polski',",,FALSE
+230,"Jeśli byłeś przed wprowadzeniem obowiązkowej kwarantanny za granicą, w krajach, w których wiele osób choruje, ale nie zaobserwowałeś u siebie wyżej wymienionych objawów, to napewno nie jestes chory bo organizm zdążył sie uodpornić.",,FALSE
+231,Jeżeli w ciągu 14 dni samoobserwacji zaobserwujesz  objawy choroby COVID-19 to następnego dnia udaj sie do najblizej przychodni albo do szpitalnej izby przyjęć,,FALSE
+232,Od 15 marca po powrocie do Polski jesteś zobowiązany poddać się obowiązkowej 14-dniowej kwarantannie ale tylko na wyraźne rządanie Straży Granicznej.,,FALSE
+233,Internet jest najlepszym źródłem informacji n/t koronawirusa i choroby COVID-19,,FALSE
+234,Objawy koronawirusa u dziecka nie wystepują jako że dzieci nie chorują na COVID-19,,FALSE
+235,Kiedy nie ma zajęć w szkole dzieci muszą bawić sie razem ponieważ wtedy nabierają odporności.,,FALSE
+236,"Nie ma potrzeby dezynfekcji przedmiotów, które są dotykane przez wiele osób jak klamki, poręcze, przyciski w windzie ponieważ koronawirus nie może przetrwać poza ludzkim organizmem",,FALSE
+237,"Badania sugerują, że koronawirusy (np. SARS, MERS) nie mogą utrzymywać się na powierzchniach przez kilka godzin lub nawet kilka (2-3) dni.Może się to różnić w różnych warunkach (np. rodzaj powierzchni, temperatura lub wilgotność otoczenia) ale tylko minimalnie",,FALSE
+238,"Nie trzeba ochronić sie przed zakażeniem w kontaktach miedzyludzkich mozna bezpiecznie podawać rękę, całować na powitanie i  obejmować. Nie trzeba unikać dużych skupisk ludzkich i unikać bliskiego kontaktu z chorymi.",,FALSE
+239,Najlepszym środkiem dezynfekującym jest wybielacz i benzyna,,FALSE
+240,Alkohol może być środkiem do odkażania jamy ustnej  należy nim przepłukać gardło i wypluć,,FALSE
+241,"Jeśli kaszlesz, kichasz, wycierasz nos, możesz używać chusteczke jednorazowych wielokrotnie.",,FALSE
+243,"Włączniki światła, przyciski w windzie, klamki są za małe aby stanowić zagrożenie zakażenia.",,FALSE
+244,"Guziki w autobusach, tramwajach i metrze, przyciski stop oraz zółte guziki na przejsciach są za małe aby stanowić zagrożenie zakażenia",,FALSE
+246,"W domu często dotykane przedmioty i powierzchnie (np. stoły, blaty, włączniki światła, klamki i uchwyty szafek) nie wymagają dezynfekcji",,FALSE
+247,Telefon komórkowy nie wymaga dezynfekcji.,,FALSE
+248,Posługuj sie telefonem komórkowym tak jak zazwyczaj gdyż nie stanowi on żadnego zagrożenia,,FALSE
+249,Ręcę są naturalną barierą dla koronawirusa,,FALSE
+250,"Brudne ręce są przyczyną licznych chorób, a w niektórych regionach świata nawet śmierci nie dotyczy to jednak koronawirusa",,FALSE
+251,Nie zostały opublikowane specjalne zasady mycia rąk w obecnej sytuacji,,FALSE
+252,Mycie rąk  podrażnia naskórek i sprawia ze skóra traci swoje naturalne właściwości ochronne. ,,FALSE
+253,"Do „chorób brudnych rąk” zalicza się także biegunki, zatrucia pokarmowe i wirusowe zapalenie wątroby typu A ale koronawirus do niech nie należy",,FALSE
+254,Wprowadzone kryteria epidemiologiczne są podyktowane względami politycznymi.,,FALSE
+255,Rozpylanie alkoholu lub chloru jest skutecznym choć nieprzyjemnych sposobem na odkarzenie pomieszczenia lub ciała.,,FALSE
+256,"Jako, że epidemia zaczęła sie od spożycia zakażonego mięsa zwierzęcego to należy zwracać szczególną uwagę również na zwierzęta domowe, takie jak psy lub koty bo mogą zostać zarażone nowym koronawirusem.",,FALSE
+257,"Jako że nowe leki, szczególnie zagraniczne,  nie są dostępne w aptekach, dowolny lek do zapobiegania lub leczenia zakażenia nowym koronawirusem można kupić przez Internet.",,FALSE
+258,Grypa i COVID-19 to praktycznie identyczne choroby różnia sie nieistotnymi szczególami,,FALSE
+259,CoVID-19 łatwo pomylić z grypą bo to praktycznie ta sama choroba,,FALSE
+260,"Grypę i CoVID-19 wywolują wirusy , które są silnie ze sobą spokrewnione dlatego objawy i leczenie są podobne.",,FALSE
+261,"Istnieje szczepionka przeciw grypie, którą można szczepić się co roku - gdybyśmy szczepili sie przeciwko grypie nie bylo problemów z koronawirusem",,FALSE
+262,Chociaż wirusy grypy oraz koronawirus 2019-nCoV to podobne wirusyto wirus grypy jest bardziej zaraźliwy i niebezpieczny,,FALSE
+263,Objawy COVID-19 przypominają grypę i należy się leczyć jak w przypadku grypy,,FALSE
+264,"Przebieg COVID-19, podobnie jak w przypadku grypy łagodny i tylko w sporadycznych przypadkach, tak jak w grypie wymagana jest hospitalizacja",,FALSE
+265,Najlepszym sposobem uniknięcia zachorowania jest szybkie odizolowanie się od zwierząt,,FALSE
